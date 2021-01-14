@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Network Request</string>
+    <string name="error">Empty fields</string>
+    <string name="pref_file_key">pref_file_key</string>
+    <string name="pref_is_user_login">isuserlogin</string>
+    <string name="pref_name_of_user">nameofuser</string>
+    <string name="pref_username_of_user">usernameofuser</string>
+</resources>
